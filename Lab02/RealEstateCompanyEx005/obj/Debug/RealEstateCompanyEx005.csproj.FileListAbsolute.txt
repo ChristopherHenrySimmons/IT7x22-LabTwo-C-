@@ -1,0 +1,6 @@
+F:\2018_S2\IT7x22 - ASP .NET C# Java\Labs\IT7x22LabTwo\Lab02\RealEstateCompanyEx005\bin\Debug\RealEstateCompanyEx005.exe.config
+F:\2018_S2\IT7x22 - ASP .NET C# Java\Labs\IT7x22LabTwo\Lab02\RealEstateCompanyEx005\bin\Debug\RealEstateCompanyEx005.exe
+F:\2018_S2\IT7x22 - ASP .NET C# Java\Labs\IT7x22LabTwo\Lab02\RealEstateCompanyEx005\bin\Debug\RealEstateCompanyEx005.pdb
+F:\2018_S2\IT7x22 - ASP .NET C# Java\Labs\IT7x22LabTwo\Lab02\RealEstateCompanyEx005\obj\Debug\RealEstateCompanyEx005.csproj.CoreCompileInputs.cache
+F:\2018_S2\IT7x22 - ASP .NET C# Java\Labs\IT7x22LabTwo\Lab02\RealEstateCompanyEx005\obj\Debug\RealEstateCompanyEx005.exe
+F:\2018_S2\IT7x22 - ASP .NET C# Java\Labs\IT7x22LabTwo\Lab02\RealEstateCompanyEx005\obj\Debug\RealEstateCompanyEx005.pdb

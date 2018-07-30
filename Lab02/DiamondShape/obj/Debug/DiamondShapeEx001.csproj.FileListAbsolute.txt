@@ -1,0 +1,6 @@
+E:\2018_S2\IT7x22 - ASP .NET C# Java\Labs\IT7x22LabTwo\Lab02\DiamondShape\bin\Debug\DiamondShape.exe.config
+E:\2018_S2\IT7x22 - ASP .NET C# Java\Labs\IT7x22LabTwo\Lab02\DiamondShape\bin\Debug\DiamondShape.exe
+E:\2018_S2\IT7x22 - ASP .NET C# Java\Labs\IT7x22LabTwo\Lab02\DiamondShape\bin\Debug\DiamondShape.pdb
+E:\2018_S2\IT7x22 - ASP .NET C# Java\Labs\IT7x22LabTwo\Lab02\DiamondShape\obj\Debug\DiamondShapeEx001.csproj.CoreCompileInputs.cache
+E:\2018_S2\IT7x22 - ASP .NET C# Java\Labs\IT7x22LabTwo\Lab02\DiamondShape\obj\Debug\DiamondShape.exe
+E:\2018_S2\IT7x22 - ASP .NET C# Java\Labs\IT7x22LabTwo\Lab02\DiamondShape\obj\Debug\DiamondShape.pdb

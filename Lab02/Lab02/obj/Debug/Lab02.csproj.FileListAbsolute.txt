@@ -1,0 +1,7 @@
+E:\2018_S2\IT7x22 - ASP .NET C# Java\Labs\IT7x22LabTwo\Lab02\Lab02\bin\Debug\Lab02.exe.config
+E:\2018_S2\IT7x22 - ASP .NET C# Java\Labs\IT7x22LabTwo\Lab02\Lab02\bin\Debug\Lab02.exe
+E:\2018_S2\IT7x22 - ASP .NET C# Java\Labs\IT7x22LabTwo\Lab02\Lab02\bin\Debug\Lab02.pdb
+E:\2018_S2\IT7x22 - ASP .NET C# Java\Labs\IT7x22LabTwo\Lab02\Lab02\obj\Debug\Lab02.csprojResolveAssemblyReference.cache
+E:\2018_S2\IT7x22 - ASP .NET C# Java\Labs\IT7x22LabTwo\Lab02\Lab02\obj\Debug\Lab02.csproj.CoreCompileInputs.cache
+E:\2018_S2\IT7x22 - ASP .NET C# Java\Labs\IT7x22LabTwo\Lab02\Lab02\obj\Debug\Lab02.exe
+E:\2018_S2\IT7x22 - ASP .NET C# Java\Labs\IT7x22LabTwo\Lab02\Lab02\obj\Debug\Lab02.pdb

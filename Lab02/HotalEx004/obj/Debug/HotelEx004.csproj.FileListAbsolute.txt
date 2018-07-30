@@ -1,0 +1,2 @@
+F:\2018_S2\IT7x22 - ASP .NET C# Java\Labs\IT7x22LabTwo\Lab02\HotalEx004\obj\Debug\HotelEx004.csprojResolveAssemblyReference.cache
+F:\2018_S2\IT7x22 - ASP .NET C# Java\Labs\IT7x22LabTwo\Lab02\HotalEx004\obj\Debug\HotelEx004.csproj.CoreCompileInputs.cache
